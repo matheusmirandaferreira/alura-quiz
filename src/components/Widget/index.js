@@ -22,26 +22,6 @@ const Widget = styled.div`
     font-weight: 400;
     line-height: 1;
   }
-
-  input {
-    width: 100%;
-    padding: 10px;
-    font-weight: 600;
-    font-size: 16px;
-    text-align: center;
-    border: none;
-    border-radius: 4px;
-  }
-
-  button {
-    margin-top: 12px;
-    background-color: ${({ theme }) => theme.colors.wrong};
-    color: white;
-    border: none;
-    padding: 10px;
-    width: 100%;
-    border-radius: 4px;
-  }
 `;
 
 Widget.Header = styled.header`
