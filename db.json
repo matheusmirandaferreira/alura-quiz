@@ -1,28 +1,28 @@
 {
-  "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://wallpaperaccess.com/full/30626.jpg",
+  "title": "Quiz de animes",
+  "description": "Me ajuda a organizar minha lista de animes ??? =3",
   "questions": [
     {
-      "image": "https://media0.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif?cid=ecf05e47c7549b50af85a1b7a43ba829053c2609bb2c7b13&rid=giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://media.tenor.com/images/4fd49de4149a6d348e04f2465a3970af/tenor.gif",
+      "title": "Qual o melhor anime da temporada ?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 0,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Attack on Titan",
+        "Nanatsu no Taizai",
+        "Dragon ball",
+        "Boruto"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://magiagifs.com.br/wp-content/uploads/2019/08/gifs-anime5.gif",
+      "title": "Qual desses animes é shounen",
+      "description": "Quase lá",
+      "answer": 1,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Death note",
+        "Boku no hero academia"
       ]
     }
   ],

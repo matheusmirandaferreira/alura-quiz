@@ -30,7 +30,6 @@ function QuestionWidget({
   return (
     <Widget>
       <Widget.Header>
-        {/* <BackLinkArrow href="/" /> */}
         <h3>
           {`Pergunta ${questionIndex + 1} de ${totalQuestions}`}
         </h3>
@@ -67,7 +66,6 @@ function QuestionWidget({
                 htmlFor={alternativeId}
               >
                 <input
-                  // style={{ display: 'none' }}
                   id={alternativeId}
                   name={questionId}
                   type="radio"
@@ -76,10 +74,6 @@ function QuestionWidget({
               </Widget.Topic>
             );
           })}
-
-          {/* <pre>
-            {JSON.stringify(question, null, 4)}
-          </pre> */}
           <Button type="submit">
             Confirmar
           </Button>

@@ -50,7 +50,7 @@ export default function Home() {
               <Input
                 name="nomeDoUsuario"
                 onChange={(e) => setName(e.target.value)}
-                placeholder="Diz ai seu nome"
+                placeholder="Seu nome"
                 value={name}
               />
               <Button type="submit" disabled={name.length === 0}>
