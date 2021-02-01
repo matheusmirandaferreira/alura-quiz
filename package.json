@@ -1,6 +1,6 @@
 {
-  "name": "with-styled-components-app",
-  "version": "1.0.0",
+  "name": "aluraquiz-base",
+  "version": "1.0.1",
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -10,6 +10,7 @@
     "@crello/react-lottie": "^0.0.11",
     "framer-motion": "^3.2.1",
     "next": "latest",
+    "prop-types": "^15.7.2",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "react-is": "^16.8.0",
