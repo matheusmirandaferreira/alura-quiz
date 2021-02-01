@@ -1,5 +1,5 @@
 {
-  "bg": "https://wallpaperaccess.com/full/30626.jpg",
+  "bg": "https://images6.alphacoders.com/656/thumb-1920-656029.png",
   "title": "Quiz de animes",
   "description": "Me ajuda a organizar minha lista de animes ??? =3",
   "questions": [
@@ -29,17 +29,20 @@
     },
     {
       "image": "https://magiagifs.com.br/wp-content/uploads/2019/08/gifs-anime5.gif",
-      "title": "Qual desses animes é shounen",
+      "title": "Qual desses animes não é shounen ?",
       "description": "Quase lá",
       "answer": 1,
       "alternatives": [
+        "Boku no hero academia",
         "Death note",
-        "Boku no hero academia"
+        "Soul Eater",
+        "Akame ga kill"
       ]
     }
   ],
   "external": [
-    ""
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
   ],
   "theme": {
     "colors": {
